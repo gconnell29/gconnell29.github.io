@@ -1,0 +1,15 @@
+#profile-icon {
+  border-radius: 10px;
+}
+
+#project-thumbnail {
+  border-radius: 5px;
+}
+
+#project-thumbnail img {
+  border-radius: 5px;
+}
+
+#banner .logo {
+  margin-bottom: 0;
+}
